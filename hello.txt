@@ -16,3 +16,5 @@ I am just enjoying this course. I dont know everything possible about DS, but I 
 I think this course is super awesome
 I also think that git can be very help full for our project
 ##
+
+I am only experimenting with Slack Github integration, to figure it out. bear with me. 
